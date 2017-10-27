@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#f28322</color>
+
+    <color name="candidate_normal">#000000</color>
+    <color name="candidate_recommended">#000000</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_background">#bbffffff</color>
+
+    <color name="instagram">#125688</color>
+    <color name="facebook">#5bc0de</color>
+    <color name="light_gray">#AAAAAA</color>
+    <color name="lightest_gray">#F0F0F0</color>
+    <!--<color name="candidate_other">#000000</color>-->
+    <!--<color name="candidate_background">#000000</color>-->
+
+</resources>

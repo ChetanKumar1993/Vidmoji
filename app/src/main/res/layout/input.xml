@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.perfection.newkeyboard.LatinKeyboardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_alignParentBottom="true"
+    android:paddingTop="0dp"
+    android:layout_marginTop="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:keyPreviewLayout="@layout/preview"
+    android:keyBackground="@drawable/key_background"
+    android:keyTextColor="#000000"
+    android:keyTextSize="20dp"
+    android:background="@android:color/white"
+    android:popupLayout="@layout/keyboard_popup_layout"
+    android:shadowColor="#FFFFFF"
+    android:shadowRadius="0.0"
+    android:visibility="visible">
+</com.perfection.newkeyboard.LatinKeyboardView>
